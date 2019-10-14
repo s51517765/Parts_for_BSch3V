@@ -15,6 +15,10 @@ https://www.suigyodo.com/online/schsoft.htm
 
 回路図エディタBSch3Vで、”設定￥ライブラリ￥add”　で "RaspberryPi.LB3" を読み込みます。
 
+ファイル一覧からブラウザの右クリックでダウンロードします。
+
+<img src="https://github.com/s51517765/RaspberryPi_for_BSch3V/blob/master/download.jpg">
+
 ## 使用例と作成経緯など
 
 https://s51517765.hatenadiary.jp/entry/2018/02/11/170058
